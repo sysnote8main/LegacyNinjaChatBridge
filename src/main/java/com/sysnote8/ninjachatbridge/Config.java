@@ -1,4 +1,4 @@
-package com.myname.mymodid;
+package com.sysnote8.ninjachatbridge;
 
 import java.io.File;
 
